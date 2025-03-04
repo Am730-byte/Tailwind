@@ -1918,14 +1918,6 @@
     transform-box: view-box;
   }
 }
-h1 {
-  font-size: 24px;
-  font-weight: bold;
-  text-decoration: underline;
-  color: #333;
-  text-align: center;
-  margin-top: 20px;
-}
 @property --tw-translate-x {
   syntax: "*";
   inherits: false;
